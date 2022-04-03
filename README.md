@@ -17,6 +17,7 @@ Currently I focus myself on learning:
 - **Automated Testing:** TestComplete
 - **IDE:** Visual Studio, SQL Server Management Studio
 - **CI/CD:** Azure DevOps
+- **Big Data**: Azure Databricks, Power BI
 - **Work tracking**: JIRA
 - **Other tools:**: Confluence
 
