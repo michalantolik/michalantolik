@@ -28,7 +28,7 @@ Currently I focus myself on learning:
 - **Unit testing:** MSTest, XUnit, MOQ
 - **Automated testing:** Selenium
 - **IDE:** Visual Studio, VSCode, SQL Server Management Studio
-- **CI/CD:** Azure DevOps
+- **CI/CD:** Azure DevOps, GitHub
 - **Big Data:** Azure Data Lake, Azure Databricks, Power BI
 
 ## Completed courses
