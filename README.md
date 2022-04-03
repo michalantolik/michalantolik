@@ -1,6 +1,12 @@
 # Hi everyone 👋
 
-I'm currently a desktop apps developer who is eager to get his hands dirty with a web development. The greatest passion that I have is watching Pluralsight courses which I'm addicted to. This is the Netflix of myself. I love to watch it, learn new stuff and try it out side-by-side on the second monitor while I'm following included demos. People say that I'm quite analytical guy with a "scientific soul". Probably that's the reason for which I'm used to "studying" Pluralsight courses, making notes from them and tracking my learning progress.
+I am working as a Desktop Apps Developer who is eager to get his hands dirty with a Web Development, Big data and DevOps stuff.
+
+Currently I focus myself on learning:
+- ASP.NET Core MVC 6 (.NET 6) - for Web Development
+- Azure Databricks and Power BI - for Big Data
+- Azure DevOps and GitHub - for DevOps
+- Azure - in general
 
 ## Technology stack at work
 - **Apps/areas:** Desktop
