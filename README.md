@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Michał, a .NET software developer with 12 years of experience. I specialize in creating desktop applications using WPF and have some experience in ASP.NET Core MVC. I'm enthusiastic about working with ASP.NET Core MVC and Entity Framework to build cool web applications.
+
 <!--
 **michalantolik/michalantolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
