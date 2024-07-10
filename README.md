@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michał, a .NET software developer with over 12 years of experience. My main programming language is C#. My experience spreads over development of desktop applications in WPF and ASP.NET Core MVC web applications.
+Experienced software developer with over 12 years of experience. Problem-solver with analytical mindset. Detail-oriented, organized and meticulous employee. Enthusiastic team player ready to contribute to company success. Pluralsight freak.
 
 <!--
 **michalantolik/michalantolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
