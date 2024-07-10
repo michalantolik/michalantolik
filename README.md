@@ -1,5 +1,7 @@
 ### Michał Antolik
 
+#### .NET Developer, Azure DevOps, Scrum Master
+
 Experienced software developer with over 12 years of experience. Problem-solver with analytical mindset. Detail-oriented, organized and meticulous employee. Enthusiastic team player ready to contribute to company success. Pluralsight freak.
 
 <!--
