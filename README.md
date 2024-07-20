@@ -2,8 +2,7 @@
 
 #### .NET Developer, Azure DevOps, Scrum Master
 
-Experienced software developer with over 12 years of experience. Problem-solver with analytical mindset. Detail-oriented, organized and meticulous employee. Enthusiastic team player ready to contribute to company success. Lifelong learner with a great
-passion. Pluralsight freak.
+Passionate .NET developer with 12 years of experience using ASP.NET Core for web apps and WPF for desktop. Azure cloud certi ed hobbyist. Enthusiast of Azure DevOps and CI/CD practices. Keen on Selenium test automation. Interested in data engineering, analysis and visualization. Experienced Scrum Master. Eager to take on new challenges. Ready to start work ASAP (no current contract).
 
 
 <!--
