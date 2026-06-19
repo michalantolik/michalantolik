@@ -26,6 +26,6 @@ Experienced in backend development, software architecture, cloud technologies an
 
 Personal cloud project built with ASP.NET Core, Azure, Terraform and GitHub Actions. Demonstrates Infrastructure as Code, cloud deployment automation, CI/CD pipelines and modern cloud engineering practices.
 
-### Career Direction
+### Professional Interests
 
-.NET Backend → Cloud Engineering → Platform Engineering → Architecture
+Cloud Engineering • Infrastructure as Code • CI/CD • Platform Engineering • Architecture
