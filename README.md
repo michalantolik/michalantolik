@@ -2,13 +2,13 @@
 
 #### .NET Backend & Cloud Engineer
 
-Building cloud platforms with Azure, Terraform and GitHub Actions.
+Focused on cloud engineering, Infrastructure as Code and CI/CD automation using Azure, Terraform and GitHub Actions.
 
-Experienced software engineer with 13+ years of experience delivering enterprise .NET solutions, cloud platforms and automation systems.
+Experienced software engineer with 15 years of experience delivering enterprise .NET solutions, backend systems and automation platforms.
 
-My current focus is Infrastructure as Code, CI/CD automation, cloud architecture and modern platform engineering practices using Azure, Terraform and GitHub Actions.
+My current focus is expanding from backend development into cloud engineering, Infrastructure as Code, developer platforms and modern platform engineering practices.
 
-Experienced in backend development, software architecture, cloud engineering and developer platforms. Currently helping deliver enterprise solutions for a large Canadian bank.
+Experienced in backend development, software architecture, cloud technologies and automation. Currently helping deliver enterprise solutions for a large Canadian bank.
 
 ### Current Focus
 
@@ -18,14 +18,13 @@ Experienced in backend development, software architecture, cloud engineering and
 * Infrastructure as Code (IaC)
 * CI/CD
 * Docker
-* Kubernetes
 * Platform Engineering
 
 ### Featured Project
 
 **Cloud Blog Platform**
 
-Personal cloud platform project built with ASP.NET Core, Azure, Terraform and GitHub Actions. Demonstrates Infrastructure as Code, cloud deployment automation, CI/CD pipelines and platform engineering practices.
+Personal cloud project built with ASP.NET Core, Azure, Terraform and GitHub Actions. Demonstrates Infrastructure as Code, cloud deployment automation, CI/CD pipelines and modern cloud engineering practices.
 
 ### Career Direction
 
