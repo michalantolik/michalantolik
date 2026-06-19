@@ -1,21 +1,32 @@
 ### Michał Antolik
 
-#### .NET Developer, Azure DevOps, Scrum Master
+#### .NET Backend & Cloud Engineer
 
-Passionate .NET developer with 13 years of experience using ASP.NET Core for web apps and WPF for desktop. Azure cloud certified hobbyist. Enthusiast of Azure DevOps and CI/CD practices. Keen on Selenium test automation. Interested in data engineering, analysis and visualization. Experienced Scrum Master. Currently working a as .NET Consultant for Capco, implementing .NET web apps for a large Canadian bank.
+Building cloud platforms with Azure, Terraform and GitHub Actions.
 
+Experienced software engineer with 13+ years of experience delivering enterprise .NET solutions, cloud platforms and automation systems.
 
-<!--
-**michalantolik/michalantolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current focus is Infrastructure as Code, CI/CD automation, cloud architecture and modern platform engineering practices using Azure, Terraform and GitHub Actions.
 
-Here are some ideas to get you started:
+Experienced in backend development, software architecture, cloud engineering and developer platforms. Currently helping deliver enterprise solutions for a large Canadian bank.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+* Azure
+* Terraform
+* GitHub Actions
+* Infrastructure as Code (IaC)
+* CI/CD
+* Docker
+* Kubernetes
+* Platform Engineering
+
+### Featured Project
+
+**Cloud Blog Platform**
+
+Personal cloud platform project built with ASP.NET Core, Azure, Terraform and GitHub Actions. Demonstrates Infrastructure as Code, cloud deployment automation, CI/CD pipelines and platform engineering practices.
+
+### Career Direction
+
+.NET Backend → Cloud Engineering → Platform Engineering → Architecture
