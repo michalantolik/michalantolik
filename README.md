@@ -1,14 +1,14 @@
 ### Michał Antolik
 
-#### .NET Backend & Cloud Engineer
+#### .NET Backend & Cloud Engineer | Cloud Platforms | Azure | Terraform
 
 Focused on cloud engineering, Infrastructure as Code and CI/CD automation using Azure, Terraform and GitHub Actions.
 
-Experienced software engineer with 15 years of experience delivering enterprise .NET solutions, backend systems and automation platforms.
+Experienced software engineer with 15 years in enterprise software development, delivering .NET solutions, backend systems and cloud automation solutions.
 
 My current focus is expanding from backend development into cloud engineering, Infrastructure as Code, developer platforms and modern platform engineering practices.
 
-Experienced in backend development, software architecture, cloud technologies and automation. Currently helping deliver enterprise solutions for a large Canadian bank.
+Experienced in backend development, software architecture, cloud technologies and engineering automation. Currently helping deliver enterprise solutions for a large Canadian bank.
 
 ### Current Focus
 
