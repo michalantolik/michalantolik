@@ -8,7 +8,7 @@ Experienced software engineer with 15 years in enterprise software development, 
 
 My current focus is expanding from backend development into cloud engineering, Infrastructure as Code, developer platforms and modern platform engineering practices.
 
-Experienced in backend development, software architecture, cloud technologies and engineering automation. Currently helping deliver enterprise solutions for a large Canadian bank.
+Experienced in backend development, software architecture, cloud technologies and engineering automation. Recently helping to deliver enterprise solutions for a large Canadian bank.
 
 ### Current Focus
 
